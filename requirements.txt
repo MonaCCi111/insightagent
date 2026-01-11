@@ -1,0 +1,9 @@
+langchain-gigachat==0.3.12
+pandas==2.1.0
+plotly==5.18.0
+chromadb==0.4.22
+transformers==4.36.0
+sentence-transformers==2.2.2
+python-dotenv==1.0.0
+streamlit==1.29.0
+jupyter==1.0.0

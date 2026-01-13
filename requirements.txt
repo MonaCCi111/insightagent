@@ -1,4 +1,5 @@
 langchain-gigachat==0.3.12
+langchain
 pandas==2.1.0
 plotly==5.18.0
 chromadb==0.4.22
